@@ -6,10 +6,10 @@
  * other MQTT-based automation systems.
  *
  * Features:
- * - Connects to Wi-Fi and an MQTT broker
+ * - Connects to WiFi and an MQTT broker
  * - Listens for display messages on the topic: "home/flipdot/message"
  * - Listens for lighting control on the topic: "home/flipdot/lighting" (expects "On"/"Off")
- * - Constructs and sends telegrams following the IBIS protocol used by VDV displays
+ * - Constructs and sends telegrams following the IBIS protocol used by bus FlipDot displays
  * - Displays the message on a IBIS FlipDot screen via UART using 7E2 serial configuration and a logic level shifter (IBIS Wandler)
  *
  * Special thanks to Cato and Matti for sharing their codebases. These helped a lot while reverse engineering the IBIS protocol:
