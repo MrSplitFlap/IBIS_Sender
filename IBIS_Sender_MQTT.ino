@@ -40,7 +40,7 @@
 // Pin configuration
 #define lightingPin 28 // GPIO pin used to control internal lighting via a relay
 
-// Wi-Fi Credentials
+// WiFi Credentials
 const char* ssid = "WIFI_SSID";            // WiFi SSID
 const char* password = "WIFI_PASSWORD";    // WiFi password
 
