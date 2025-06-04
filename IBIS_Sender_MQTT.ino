@@ -1,7 +1,7 @@
 /*
  * IBIS Display Controller via MQTT
  *
- * This Arduino sketch connects to a Wi-Fi network and subscribes to MQTT topics to control
+ * This Arduino sketch connects to a WiFi network and subscribes to MQTT topics to control
  * a IBIS FlipDot display and builtin lighting. It is intended for use with Home Assistant or
  * other MQTT-based automation systems.
  *
