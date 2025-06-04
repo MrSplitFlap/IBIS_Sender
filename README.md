@@ -15,6 +15,7 @@ Features:
 Special thanks to Cato and Matti for sharing their codebases. These helped a lot while reverse engineering the IBIS protocol:
 
 CatoLynx - pyFIS: https://github.com/CatoLynx/pyFIS
+
 drive-n-code - Open ITCS: https://github.com/open-itcs/onboard-panel-arduino
 
 Use a IBIS Wandler to communicate with the FlipDot display (Converts TTL signals to 24V IBIS logic level).
